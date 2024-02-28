@@ -1,0 +1,10 @@
+print('\U0001F600') # Imprime o emoji 😀
+print('\U0001F44D') # Imprime o emoji 👍
+print('\U0001F680') # Imprime o emoji 🚀
+print('\U0001F605') # Imprime o emoji 😅
+print('\U0001F923') # Imprime o emoji 🤣
+print('\U0001FAE0') # Imprime o emoji 🫠
+print('\U0001F607') # Imprime o emoji 😇
+print('\U0001F60D') # Imprime o emoji 😍
+print('\U0001F61C') # Imprime o emoji 😜
+print('\U0001FAE1') # Imprime o emoji 🫡
